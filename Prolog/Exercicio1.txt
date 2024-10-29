@@ -1,0 +1,5 @@
+a) Retorna a nota de joão. Com X = 8.
+
+b) Ira retornar os alunis Joao, Pedro, Jose
+
+c) Nenhum
