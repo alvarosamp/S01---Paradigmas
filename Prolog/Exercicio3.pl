@@ -1,5 +1,4 @@
 
-% Banco de Dados de Filmes
 
 % Formato: movie(Título, Ano).
 movie(the_godfather_part_i, 1972).
@@ -105,8 +104,6 @@ movie(scream_6, 2023).
 movie(air, 2023).
 movie(paw_patrol_the_movie, 2021).
 movie(maya_and_the_three, 2021).
-
-% Consultas
 
 % 1 - Pesquisar todos os filmes lançados em 2006
 % ?- movie(Movie, 2006).
